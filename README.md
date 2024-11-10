@@ -1,6 +1,6 @@
 Status : Under Progress
 
-# 🏠 Interio - Your Interior Design Inspiration
+# 🏠 Interio - Your Interior Design Partner
 
 Welcome to **Interio**! This project is a modern, user-friendly website for discovering and sharing interior design ideas. 🌟 Perfect for those who want to transform their spaces and explore unique design concepts!
 
@@ -17,6 +17,7 @@ Interio is an interior design website created using HTML, CSS, and JavaScript, a
   
 ## 📂 Folder Structure
 
+```plaintext
 Interio/
 ├── assets/                 # Images, fonts, and media files
 ├── src/
