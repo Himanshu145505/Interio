@@ -17,7 +17,6 @@ Interio is an interior design website created using HTML, CSS, and JavaScript, a
   
 ## 📂 Folder Structure
 
-```plaintext
 Interio/
 ├── assets/                 # Images, fonts, and media files
 ├── src/
@@ -26,7 +25,7 @@ Interio/
 │   ├── pages/              # HTML pages
 │   └── components/         # Reusable HTML components
 └── README.md               # Project documentation
-```
+
 
 ## 💻 Getting Started
 
