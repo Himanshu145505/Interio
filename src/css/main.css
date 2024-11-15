@@ -1,0 +1,25 @@
+header{
+    background-color: #333;
+    padding: 1 rem 0;
+}
+
+.NavItm{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* padding: 0 1.5rem; */
+}
+
+.logo h1{
+    color:yellowgreen;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 6rem;
+}
